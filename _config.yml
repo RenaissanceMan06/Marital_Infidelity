@@ -2,10 +2,8 @@ gem "github-pages", group: :jekyll_plugins
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 title: "by Rene Solis"
-layout: "about"
-author: 
-name: "Rene Solis"
 email: "rsolis@my365.bellevue.edu"
+contact: "Rene Solis"
 
 # Build settings
 markdown: kramdown
