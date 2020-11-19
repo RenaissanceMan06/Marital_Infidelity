@@ -15,6 +15,5 @@ for my model were years married, religiousness, and happiness rating. Both in tr
 testing, the model did perform well with some of the predictors chosen from the correlation matrix. 
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenaissanceMan06/Marital_Infidelity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Link 
+[Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
