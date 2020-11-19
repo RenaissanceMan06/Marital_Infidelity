@@ -1,9 +1,9 @@
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+theme: "jekyll-theme-basically-basic"
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
