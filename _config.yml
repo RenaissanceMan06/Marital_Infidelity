@@ -23,5 +23,5 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      layout: post
+      layout: page
       read_time: true
