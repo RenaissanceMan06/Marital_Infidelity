@@ -16,8 +16,6 @@ testing, the model did not perform well with the predictors chosen from the corr
 
 You can use the [editor on GitHub](https://github.com/RenaissanceMan06/Marital_Infidelity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
- ![Image](infidelity_project.png)
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
