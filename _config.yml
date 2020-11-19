@@ -4,7 +4,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: "by Rene Solis"
 layout: "about"
 author: 
-name: Rene Solis
+name: "Rene Solis"
 email: "rene_solis2727@hotmail.com"
 
 # Build settings
