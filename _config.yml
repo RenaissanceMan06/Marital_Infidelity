@@ -1,5 +1,5 @@
 gem "github-pages", group: :jekyll_plugins
-#remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Build settings
 markdown: kramdown
