@@ -1,7 +1,7 @@
 gem "github-pages", group: :jekyll_plugins
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
-#theme: jekyll-theme-tactile
+author: "Rene Solis"
 layout: "page"
 email: "rene_solis2727@hotmail.com"
 about: "Rene Solis"
