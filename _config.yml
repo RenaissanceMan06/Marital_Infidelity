@@ -3,5 +3,5 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 layout: "post"
 email: "rene_solis2727@hotmail.com"
-
+layout: "about"
 
