@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Marital Infidelity
 
 You can use the [editor on GitHub](https://github.com/RenaissanceMan06/Marital_Infidelity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
