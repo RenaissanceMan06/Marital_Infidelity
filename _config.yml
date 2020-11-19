@@ -3,7 +3,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 author: Rene Solis
 title: "by Rene Solis"
-layout: "page"
+layout: "post"
 email: "rene_solis2727@hotmail.com"
 
 # Build settings
