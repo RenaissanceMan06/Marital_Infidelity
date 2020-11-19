@@ -1,9 +1,10 @@
 gem "github-pages", group: :jekyll_plugins
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
-author: Rene Solis
 title: "by Rene Solis"
-layout: "post"
+layout: "about"
+author: 
+name: Rene Solis
 email: "rene_solis2727@hotmail.com"
 
 # Build settings
