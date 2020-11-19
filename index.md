@@ -12,7 +12,7 @@ predictors of extramarital affairs. To tackle this project, I utilized Fair’s 
 featured 10 columns and 601 rows. Some notable features were frequency of affairs, gender, age, 
 years married, and religiousness. After running a correlation matrix, the significant predictors 
 for my model were years married, religiousness, and happiness rating. Both in training and 
-testing, the model did not perform well with the predictors chosen from the correlation matrix. 
+testing, the model did perform well with some of the predictors chosen from the correlation matrix. 
 
 
 ### Jekyll Themes
