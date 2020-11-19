@@ -14,10 +14,6 @@ years married, and religiousness. After running a correlation matrix, the signif
 for my model were years married, religiousness, and happiness rating. Both in training and 
 testing, the model did not perform well with the predictors chosen from the correlation matrix. 
 
-You can use the [editor on GitHub](https://github.com/RenaissanceMan06/Marital_Infidelity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
