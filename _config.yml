@@ -1,5 +1,10 @@
 gem "github-pages", group: :jekyll_plugins
-remote_theme: "mmistakes/so-simple-theme"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+author: Rene Solis
+title: "Predicting Mass Shootings"
+layout: "page"
+email: "rene_solis2727@hotmail.com"
 
 # Build settings
 markdown: kramdown
@@ -8,9 +13,6 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-
-layout: "post"
-email: "rene_solis2727@hotmail.com"
 
 # Front Matter Defaults
 defaults:
