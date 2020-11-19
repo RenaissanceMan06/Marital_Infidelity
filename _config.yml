@@ -9,6 +9,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-about
 
 layout: "post"
 email: "rene_solis2727@hotmail.com"
