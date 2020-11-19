@@ -5,7 +5,7 @@ author:
 
 layout: "page"
 email: "rene_solis2727@hotmail.com"
-layout: about
+layout: "about"
 author:
 name: Rene Solis
 
