@@ -19,7 +19,7 @@ defaults:
   # _posts
   - scope:
       path: "_posts"
-      type: posts
+      type: pages
     values:
       layout: page
       read_time: true
