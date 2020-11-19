@@ -15,5 +15,5 @@ for my model were years married, religiousness, and happiness rating. Both in tr
 testing, the model did perform well with some of the predictors chosen from the correlation matrix. 
 
 
-# Link 
+# GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
