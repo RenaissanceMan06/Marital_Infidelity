@@ -20,6 +20,9 @@ plugins: # previsously gems
   - jekyll-sitemap
   - jekyll-paginate
 
+links: 
+ - label: "Linkedin"
+
 # Front Matter Defaults
 defaults:
   # _posts
