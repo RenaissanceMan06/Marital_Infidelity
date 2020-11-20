@@ -72,5 +72,5 @@ Affairs start to happen six years into marriage. That is when a spouse has had o
 
 ![image](MODEL%20PREDICTION%20BAR.png)
 
-## GitHub Repository
+## To View The GitHub Repository, Click on The Link Below
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
