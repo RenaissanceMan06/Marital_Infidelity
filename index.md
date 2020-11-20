@@ -37,6 +37,13 @@ affairs in the past year with a *SD* = 3.31.
 
 ![image](affairs_sex.png)
 
+# Affair Frequency by Sex
+
+How often did the sexes engage in extramarital affairs during the past year varied 
+between categories. However, overall, both sexes appeared to engage in extramarital affairs just about 
+equally. 
+
+![image](male_female_frequency.png)
 Both in training and 
 testing, the model did perform well with some of the predictors chosen from the correlation matrix. 
 
