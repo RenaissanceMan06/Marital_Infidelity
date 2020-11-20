@@ -59,6 +59,9 @@ religiousness did not appear to have a statistically significant effect neither.
 
 # Test Model
 
+In the testing model too, religiousness and happiness rating did not appear as significant 
+predictors of infidelity. However, years of marriage did appear as a predictor. It had 
+a *p* value of *p* = 0.00.  
 
 
 ![image](Appendix.png)
