@@ -39,7 +39,7 @@ affairs in the past year with a *SD* = 3.31.
 
 # Affair Frequency by Sex
 
-How often did the sexes engage in extramarital affairs during the past year varied 
+How often the sexes engage in extramarital affairs during the past year varied 
 between categories. However, overall, both sexes appeared to engage in extramarital affairs just about 
 equally. 
 
