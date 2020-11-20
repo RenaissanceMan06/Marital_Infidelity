@@ -4,6 +4,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: "by Rene Solis"
 email: "rsolis@my365.bellevue.edu"
 contact: "Rene Solis"
+description: "Data Science"
 
 author: 
 name: "Rene Solis" 
