@@ -44,9 +44,21 @@ between categories. However, overall, both sexes appeared to engage in extramari
 equally. 
 
 ![image](male_female_frequency.png)
-Both in training and 
-testing, the model did perform well with some of the predictors chosen from the correlation matrix. 
 
+# Training Regression Model
+
+I used a regression model. My predictors were years married, 
+religiousness, and happiness. My target variable was affairs. I used a split validation to partition 
+the data set for my model. The training model utilized a data set with 417 instances while my test 
+model used 178 instances. According to my model, the predictor for affairs is years married 
+(Table 1). It had a p value of *p* = 0.00. Surprisingly, happiness rating did not appear to have a 
+statistically significant effect on my model. It had a p value of *p* = 0.95. The attribute 
+religiousness did not appear to have a statistically significant effect neither. It had a p value of *p* 
+= 0.75. In the testing model too, religiousness and happiness rating did not appear as significant 
+predictors of infidelity (Appendix). However, years of marriage did appear as a predictor. It had 
+a p value of *p* = 0.00.  
+
+![image](Training%20model.png)
 
 # GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
