@@ -19,7 +19,7 @@ for my model were years married, religiousness, and happiness rating.
 
 ![image](Correlation.png)
 
-# Marital Happiness and Infidelity
+# Marital Happiness and Affairs
 
 Happiness rating was categorized as 1 = very unhappy, 2 = somewhat 
 unhappy, 3 = average, 4 = happier than average, and 5 = very happy. Looking at the bar plot, 
