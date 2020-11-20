@@ -22,12 +22,3 @@ plugins: # previsously gems
   - jekyll-paginate
 
 
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: pages
-    values:
-      layout: page
-      read_time: true
