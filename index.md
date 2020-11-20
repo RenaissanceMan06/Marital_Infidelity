@@ -44,16 +44,5 @@ testing, the model did perform well with some of the predictors chosen from the 
 # GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
 
-`code`from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from statistics import mean
-from sklearn import metrics
-import statsmodels.api as sm
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
-import seaborn as sns
-import missingno as msno
-import pandas as pd
-import numpy as np
-import collections
-`code`
+`df = pd.read_csv('Affairs.csv')`
+`print(df)`
