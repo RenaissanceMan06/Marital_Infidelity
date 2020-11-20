@@ -7,10 +7,12 @@ contact: "Rene Solis"
 description: "Data Science"
 
 author: 
-name: "Rene Solis" 
-bio: "Data Scientist" 
-location: "Miami, FL" 
-
+  name: "Rene Solis" 
+  bio: "Data Scientist" 
+  location: "Miami, FL" 
+  links: 
+ - label: "Linkedin"
+ 
 # Build settings
 markdown: kramdown
 plugins: # previsously gems
@@ -20,8 +22,6 @@ plugins: # previsously gems
   - jekyll-sitemap
   - jekyll-paginate
 
-links: 
- - label: "Linkedin"
 
 # Front Matter Defaults
 defaults:
