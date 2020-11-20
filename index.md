@@ -1,3 +1,4 @@
+ # Marital Infidelity
  ![Image](infidelity_project.png)
 
 The aim of my project is to determine the predictors of marital infidelity. Couples therapists view extramarital affairs as one of the most damaging relationship events and 
@@ -17,6 +18,9 @@ for my model were years married, religiousness, and happiness rating.
 
 ![image](Correlation.png)
 
+# Marital Happiness and Infidelity
+
+![image](happy_rating_affairs.png)
 
 Both in training and 
 testing, the model did perform well with some of the predictors chosen from the correlation matrix. 
