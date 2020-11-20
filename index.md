@@ -24,16 +24,16 @@ for my model were years married, religiousness, and happiness rating.
 Happiness rating was categorized as 1 = very unhappy, 2 = somewhat 
 unhappy, 3 = average, 4 = happier than average, and 5 = very happy. Looking at the bar plot, 
 most affairs occurred with respondents whom answered in the 1 and 2 categories. The least 
-affairs occurred with respondents in the 5 category. The mean for happiness rating was M = 3.93 
-and a SD = 1.10.
+affairs occurred with respondents in the 5 category. The mean for happiness rating was *M* = 3.93 
+and a *SD* = 1.10.
 
 ![image](happy_rating_affairs.png)
 
 # Affair by Sex
 
 Affair by sex did not appear to be statistically significant between the sexes. Males had a 
-mean of M = 1.50 affairs in the past year with a SD = 3.29. Females had a mean of M = 1.42 
-affairs in the past year with a SD = 3.31. 
+mean of *M* = 1.50 affairs in the past year with a *SD* = 3.29. Females had a mean of *M* = 1.42 
+affairs in the past year with a *SD* = 3.31. 
 
 ![image](affairs_sex.png)
 
