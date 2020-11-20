@@ -43,6 +43,3 @@ testing, the model did perform well with some of the predictors chosen from the 
 
 # GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
-
-`df = pd.read_csv('Affairs.csv')`
-`print(df)`
