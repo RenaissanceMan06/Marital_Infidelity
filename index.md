@@ -57,5 +57,11 @@ religiousness did not appear to have a statistically significant effect neither.
 
 ![image](Training%20model.png)
 
+# Test Model
+
+
+
+![image](Appendix.png)
+
 # GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
