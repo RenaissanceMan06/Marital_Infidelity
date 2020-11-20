@@ -1,5 +1,6 @@
- # Marital Infidelity
- ![Image](infidelity_project.png)
+# Marital Infidelity
+ 
+![Image](infidelity_project.png)
 
 The aim of my project is to determine the predictors of marital infidelity. Couples therapists view extramarital affairs as one of the most damaging relationship events and 
 one of the most difficult problems to treat in couples therapy. Furthermore, a review of 
