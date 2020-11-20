@@ -44,7 +44,7 @@ testing, the model did perform well with some of the predictors chosen from the 
 # GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
 
-`from sklearn.model_selection import train_test_split
+`code`from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from statistics import mean
 from sklearn import metrics
@@ -56,4 +56,4 @@ import missingno as msno
 import pandas as pd
 import numpy as np
 import collections
-`
+`code`
