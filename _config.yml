@@ -5,6 +5,11 @@ title: "by Rene Solis"
 email: "rsolis@my365.bellevue.edu"
 contact: "Rene Solis"
 
+author: 
+name: "Rene Solis" 
+bio: "Data Scientist" 
+location: "Miami, FL" 
+
 # Build settings
 markdown: kramdown
 plugins: # previsously gems
