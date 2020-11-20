@@ -66,5 +66,5 @@ a *p* value of *p* = 0.00.
 
 ![image](Appendix.png)
 
-# GitHub Repository
+#### GitHub Repository
 [Link](https://github.com/RenaissanceMan06/Marital_Infidelity)
