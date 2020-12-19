@@ -1,4 +1,4 @@
-# Marital Infidelity
+# Predicting Factors of Marital Infidelity
  
 ![Image](infidelity_project.png)
 
