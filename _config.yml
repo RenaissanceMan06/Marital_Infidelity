@@ -1,19 +1,13 @@
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 remote_theme: daattali/beautiful-jekyll
 markdown: kramdown
 
 # Your name to show in the footer
 author: Rene Solis
 title: "Predictors of Marital Infidelity"
-email: "rsolis@my365.bellevue.edu"
 description: "Data Science"
 
-author: 
-  name: Rene Solis 
-  bio: Data Scientist 
-  location: Miami, FL 
-  links: 
-    - label: "Linkedin"
+
  
 # Build settings
 plugins: # previsously gems
