@@ -66,7 +66,7 @@ a *p* value of *p* = 0.00.
 
 ![image](Appendix.png)
 
-# Attributes of Prediction Model
+# Attribute of Prediction Model
 
 Affairs start to happen six years into marriage. That is when a spouse has had one affair in the past year. Eight years into the marriage, a spouse has had three affairs in the past year. Approaching 10 years into the marriage, a spouse has had 4-10 affairs in the past year. A marriage past 10 years, a spouse has had either two affairs in the past year or once daily or weekly for the past year. 
 
