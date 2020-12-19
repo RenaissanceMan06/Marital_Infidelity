@@ -3,7 +3,7 @@
 ![Image](infidelity_project.png)
 
 Couples therapists view extramarital affairs as one of the most damaging relationship events and 
-one of the most difficult problems to treat in couples therapy. Furthermore, a review of 
+one of the most difficult problems to treat in couples therapy. A review of 
 ethnographic accounts of conjugal dissolution across 160 societies found that infidelity was the 
 single most common cause of marital dissolution. Rather than seeking couple therapy when 
 extramarital affairs happen, can we predict the factors of extramarital affairs? If so, we may help 
