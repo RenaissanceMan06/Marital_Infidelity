@@ -18,6 +18,5 @@ plugins: # previsously gems
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
 
 
