@@ -1,7 +1,10 @@
 gem "github-pages", group: :jekyll_plugins
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: daattali/beautiful-jekyll
+markdown: kramdown
 
-title: "by Rene Solis"
+# Your name to show in the footer
+author: Rene Solis
+title: "Predictors of Marital Infidelity"
 email: "rsolis@my365.bellevue.edu"
 description: "Data Science"
 
@@ -13,7 +16,6 @@ author:
     - label: "Linkedin"
  
 # Build settings
-markdown: kramdown
 plugins: # previsously gems
   - jekyll-remote-theme
   - jekyll-seo-tag
