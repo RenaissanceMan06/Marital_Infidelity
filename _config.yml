@@ -1,12 +1,11 @@
-#gem "github-pages", group: :jekyll_plugins
 remote_theme: daattali/beautiful-jekyll
 markdown: kramdown
 
 # Your name to show in the footer
 author: Rene Solis
 title: "Predictors of Marital Infidelity"
-description: "Data Science"
-
+avatar: "infidelity_project.png"
+round-avatar: true
 
  
 # Build settings
