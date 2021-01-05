@@ -29,7 +29,7 @@ and a *SD* = 1.10.
 
 ![image](happy_rating_affairs.png)
 
-# Affair by Sex
+## Affair by Sex
 
 Affair by sex did not appear to be statistically significant between the sexes. Males had a 
 mean of *M* = 1.50 affairs in the past year with a *SD* = 3.29. Females had a mean of *M* = 1.42 
