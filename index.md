@@ -27,7 +27,7 @@ most affairs occurred with respondents whom answered in the 1 and 2 categories. 
 affairs occurred with respondents in the 5 category. The mean for happiness rating was *M* = 3.93 
 and a *SD* = 1.10.
 
-![image](happy_rating_affair.png)
+![image](happy_rating_affairs.png)
 
 # Affair by Sex
 
