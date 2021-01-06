@@ -43,7 +43,7 @@ How often the sexes engage in extramarital affairs during the past year varied
 across categories. However, overall, both sexes appeared to engage in extramarital affairs just about 
 equally. 
 
-![image](male_female_frequencies.png)
+![image](male_female_frequency.png)
 
 # Training Regression Model
 
