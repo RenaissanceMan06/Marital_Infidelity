@@ -74,7 +74,7 @@ Affairs start to happen six years into marriage. That is when a spouse has had o
 
 # Conclusion
 
-Although the model predicted years of marriage as a significant predicted of marital infidelity, we must take into account the adjusted R-squared and Fair's dataset. Years of marriage only accounts for about 18% of why marital infidelity occurs. That leaves 82% unexplained. In addition, the dataset is a composition of two surveys dating 47 years ago and 52 years ago. It raises a question in regards to generational subjects. For instance, the survey from Psychology Today dates from 1969. The survey from Redbook dates 
+Although the model predicted years of marriage as a significant predicted of marital infidelity, we must take into account the adjusted R-squared and Fair's dataset. Years of marriage only accounts for 18% of why marital infidelity occurs. That leaves 82% unexplained. In addition, the dataset is a composition of two surveys dating 47 years and 52 years ago. It raises a question in regards to generational subjects. For instance, the survey from Psychology Today dates from 1969. The survey from Redbook dates 
 from 1974. A lot has changed both in terms how people view marriage and its purpose. Perhaps 
 recent studies that predict happiness rating and religiousness as predictors of infidelity used a 
 sample from a more recent generation than the one used by Fair. More research is needed to 
