@@ -72,5 +72,14 @@ Affairs start to happen six years into marriage. That is when a spouse has had o
 
 ![image](MODEL%20PREDICTION.png)
 
+# Conclusion
+
+Although the model predicted years of marriage as a significant predicted of marital infidelity, we must take into account Fair's dataset. It's a composition of two surveys dating 52 years ago and 47 years ago. It raises a question in regards to generational subjects. For instance, the survey from Psychology Today dates from 1969. The survey from Redbook dates 
+from 1974. A lot has changed both in terms how people view marriage and its purpose. Perhaps 
+recent studies that predict happiness rating and religiousness as predictors of infidelity used a 
+sample from a more recent generation than the one used by Fair. More research is needed to 
+determine if a more recent generation plays a role in predicting marital infidelity predictors. 
+
+
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Marital_Infidelity) ]
