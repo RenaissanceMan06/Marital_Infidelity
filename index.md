@@ -86,8 +86,8 @@ determine if a more recent generation plays a role in predicting marital infidel
 
 ## Reference
 
-Whisman, M. A., Gordon, K. C., & Chatav, Y. (2007). _Predicting sexual infidelity in a_ 
+Whisman, M. A., Gordon, K. C., & Chatav, Y. (2007). Predicting sexual infidelity in a 
 
-_population-based sample of married individuals_. Journal of Family Psychology, 21(2), 320–324. 
+population-based sample of married individuals. _Journal of Family Psychology, 21_(2), 320–324. 
 
 
