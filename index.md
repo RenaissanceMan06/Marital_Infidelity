@@ -5,7 +5,7 @@
 Couples therapists view extramarital affairs as one of the most damaging relationship events and 
 one of the most difficult problems to treat in couples therapy. A review of 
 ethnographic accounts of conjugal dissolution across 160 societies found that infidelity was the 
-single most common cause of marital dissolution. Rather than seeking couple therapy when 
+single most common cause of marital dissolution (Whisman, Gordon, & Chatav, 2007). Rather than seeking couple therapy when 
 extramarital affairs happen, can we predict the factors of extramarital affairs? If so, we may help 
 prevent marital affairs from happening. The aim of the current case study is to determine the 
 predictors of extramarital affairs. 
@@ -83,3 +83,11 @@ determine if a more recent generation plays a role in predicting marital infidel
 
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Marital_Infidelity) ]
+
+## Reference
+
+Whisman, M. A., Gordon, K. C., & Chatav, Y. (2007). *Predicting sexual infidelity in a 
+
+population-based sample of married individuals*. Journal of Family Psychology, 21(2), 320–324. 
+
+
