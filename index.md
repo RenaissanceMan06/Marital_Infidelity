@@ -81,13 +81,10 @@ sample from a more recent generation than the one used by Fair. More research is
 determine if a more recent generation plays a role in predicting marital infidelity predictors. 
 
 
-
-##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Marital_Infidelity) ]
-
-
-
 ### Reference
 
 Whisman, M. A., Gordon, K. C., & Chatav, Y. (2007). Predicting sexual infidelity in a population-based sample of married individuals. _Journal of Family Psychology, 21_(2), 320–324. 
 
+
+##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Marital_Infidelity) ]
 
