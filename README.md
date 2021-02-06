@@ -4,4 +4,3 @@
 <img src="infidelity_project.png" alt="image"></a>
 
 #### GitHub Page https://renaissanceman06.github.io/Marital_Infidelity/
-https://renaissanceman06.github.io/Marital_Infidelity/
