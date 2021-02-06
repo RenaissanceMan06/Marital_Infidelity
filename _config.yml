@@ -4,8 +4,8 @@ markdown: kramdown
 # Your name to show in the footer
 author: Rene Solis
 title: "Predictors of Marital Infidelity"
-avatar: "infidelity_project.png"
-round-avatar: true
+#avatar: "infidelity_project.png"
+#round-avatar: true
 
  
 # Build settings
