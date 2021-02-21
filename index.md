@@ -51,11 +51,8 @@ Affairs start to happen six years into marriage. That is when a spouse has had o
 
 ## Happiness Rating
 
-Happiness rating was categorized as 1 = very unhappy, 2 = somewhat 
-unhappy, 3 = average, 4 = happier than average, and 5 = very happy. Looking at the bar plot, 
-most affairs occurred with respondents whom answered in the 1 and 2 categories. The least 
-affairs occurred with respondents in the 5 category. The mean for happiness rating was *M* = 3.93 
-and a *SD* = 1.10.
+Happiness rating was the only predictor that was significant across all the groups. Happiness rating was categorized as 1 = very unhappy, 2 = somewhat unhappy, 3 = average, 4 = happier than average, and 5 = very happy. Looking at the bar plot, 
+most affairs occurred with respondents whom answered in the 1 and 2 categories. The least affairs occurred with respondents in the 5 category. The mean for happiness rating was *M* = 3.93 and a *SD* = 1.10.
 
 ![image](happy_rating_affair.png)
 
