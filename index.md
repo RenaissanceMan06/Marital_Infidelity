@@ -41,7 +41,7 @@ The predictors for my model were years married, religiousness, and happiness. My
 
 ![image](results.png)
 
-# Attribute of Prediction Model
+# Attributes of Prediction Model
 
 ## Yearsmarried
 
