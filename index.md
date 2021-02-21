@@ -37,7 +37,7 @@ equally.
 
 # Multinomial Logistic Regression Model
 
-The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set, since there were only `601 instances`. The model achieved a mean accuracy of 74.55 %. However, the result was complex. Depending on the affair group, not all predictors were significant. For instance, the group that only had 1 affair in the past year, religiousness did not appear to be a significant predictor, but yearsmarried and happiness were significant predictors. The group who had 3 affairs in the past year, yearsmarried and religiousness did not appear to be significant predictors, but happiness rating was significant. With the exception of these two groups, every other group had all three predictors as significant.  
+The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set, since there were only `601 instances`. The model achieved a `mean accuracy of 74.55 %`. However, the result was complex. Depending on the affair group, not all predictors were significant. For instance, the group that only had 1 affair in the past year, religiousness did not appear to be a significant predictor, but yearsmarried and happiness were significant predictors. The group who had 3 affairs in the past year, yearsmarried and religiousness did not appear to be significant predictors, but happiness rating was significant. With the exception of these two groups, every other group had all three predictors as significant.  
 
 ![image](results.png)
 
