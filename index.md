@@ -64,7 +64,7 @@ predictors of infidelity. However, years of marriage did appear as a predictor. 
 a *p* value of *p* = 0.00.  
 
 
-![image](Appendix.png)
+![image](results.png)
 
 # Attribute of Prediction Model
 
