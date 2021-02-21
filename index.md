@@ -47,7 +47,7 @@ equally.
 
 # Multinomial Logistic Regression Model
 
-The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set. 
+The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set. The model achieved a mean accuracy of 74.55 %. 
 
 ![image](results.png)
 
