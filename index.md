@@ -59,12 +59,7 @@ most affairs occurred with respondents whom answered in the 1 and 2 categories. 
 
 # Conclusion
 
-Although the model predicted years of marriage as a significant predicted of marital infidelity, we must take into account the adjusted R-squared and Fair's dataset. Years of marriage only accounts for 18% of why marital infidelity occurs. That leaves 82% unexplained. In addition, the dataset is a composition of two surveys dating 47 years and 52 years ago. It raises a question in regards to generational subjects. For instance, the survey from Psychology Today dates from 1969. The survey from Redbook dates 
-from 1974. A lot has changed both in terms how people view marriage and its purpose. Perhaps 
-recent studies that predict happiness rating and religiousness as predictors of infidelity used a 
-sample from a more recent generation than the one used by Fair. More research is needed to 
-determine if a more recent generation plays a role in predicting marital infidelity predictors. 
-
+Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, happiness rating was the only significant predictor across all the groups. This suggests that happiness plays an important role in a marriage. We might have heard of the proverb that says, "The grass isn't green on the other side." This might true. The grass is greener where you water it and nurture it. 
 
 ### Reference
 
