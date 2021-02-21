@@ -19,16 +19,6 @@ for my model were years married, religiousness, and happiness rating.
 
 ![image](Correlation.png)
 
-# Marital Happiness and Affairs
-
-Happiness rating was categorized as 1 = very unhappy, 2 = somewhat 
-unhappy, 3 = average, 4 = happier than average, and 5 = very happy. Looking at the bar plot, 
-most affairs occurred with respondents whom answered in the 1 and 2 categories. The least 
-affairs occurred with respondents in the 5 category. The mean for happiness rating was *M* = 3.93 
-and a *SD* = 1.10.
-
-![image](happy_rating_affair.png)
-
 # Affair by Sex
 
 Affair by sex did not appear to be statistically significant between the sexes. Males had a 
@@ -53,9 +43,24 @@ The predictors for my model were years married, religiousness, and happiness. My
 
 # Attribute of Prediction Model
 
+## Yearsmarried
+
 Affairs start to happen six years into marriage. That is when a spouse has had one affair in the past year. Eight years into the marriage, a spouse has had three affairs in the past year. Approaching 10 years into the marriage, a spouse has had 4-10 affairs in the past year. A marriage past 10 years, a spouse has had either two affairs in the past year or once daily or weekly for the past year. 
 
 ![image](MODEL%20PREDICTION.png)
+
+# Marital Happiness and Affairs
+
+## Happiness Rating
+
+Happiness rating was categorized as 1 = very unhappy, 2 = somewhat 
+unhappy, 3 = average, 4 = happier than average, and 5 = very happy. Looking at the bar plot, 
+most affairs occurred with respondents whom answered in the 1 and 2 categories. The least 
+affairs occurred with respondents in the 5 category. The mean for happiness rating was *M* = 3.93 
+and a *SD* = 1.10.
+
+![image](happy_rating_affair.png)
+
 
 # Conclusion
 
