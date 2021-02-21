@@ -45,24 +45,9 @@ equally.
 
 ![image](male_female_frequencies.png)
 
-# Training Regression Model
+# Multinomal Logistic Model
 
-The predictors for my model were years married, 
-religiousness, and happiness. My target variable was affairs. I used a split validation to partition 
-the data set for my model. The training model utilized a data set with 417 instances while my test 
-model used 178 instances. According to my model, the predictor for affairs is years married. It had a *p* value of *p* = 0.00. Surprisingly, happiness rating did not appear to have a 
-statistically significant effect on my model. It had a *p* value of *p* = 0.95. The attribute 
-religiousness did not appear to have a statistically significant effect neither. It had a *p* value of *p* 
-= 0.75. 
-
-![image](Training%20model.png)
-
-# Test Model
-
-In the testing model too, religiousness and happiness rating did not appear as significant 
-predictors of infidelity. However, years of marriage did appear as a predictor. It had 
-a *p* value of *p* = 0.00.  
-
+The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set. 
 
 ![image](results.png)
 
