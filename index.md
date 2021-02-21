@@ -59,7 +59,7 @@ most affairs occurred with respondents whom answered in the 1 and 2 categories. 
 
 # Conclusion
 
-Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, happiness rating was the only significant predictor across all the groups. This suggests that happiness plays an important role in a marriage. We might have heard of the proverb that says, "The grass isn't green on the other side." This might true. The grass is greener where you water it and nurture it. 
+Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, happiness rating was the only significant predictor across all the groups. This suggests that happiness plays an important role in a marriage. We might have heard of the proverb that says, "The grass isn't greener on the other side." This might true. The grass is greener where you water it and nurture it. 
 
 ### Reference
 
