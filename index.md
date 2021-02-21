@@ -49,8 +49,6 @@ Affairs start to happen six years into marriage. That is when a spouse has had o
 
 ![image](MODEL%20PREDICTION.png)
 
-# Marital Happiness and Affairs
-
 ## Happiness Rating
 
 Happiness rating was categorized as 1 = very unhappy, 2 = somewhat 
