@@ -39,7 +39,7 @@ equally.
 
 Since the target vector had a highly imbalanced class, I had to upsample the subset for my model. The initial data set contained `601 rows` and the upsampled data set contained `2706 rows`. The additional rows gave me a balanced target vector.   
 
-The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set, since there were only `601 instances`. The model achieved a `mean accuracy of 31.93 %` with a `SD = 2.94 ± % `. However, the result was complex. Depending on the affair group, not all predictors were significant. For instance, the group that only had 1 affair in the past year, happiness rating did not appear to be a significant predictor, but yearsmarried and religiousness were significant predictors. The group who had 3 affairs in the past year, religiousness did not appear to be significant predictors, but happiness rating and yearsmarried were significant. With the exception of these two groups, every other group had all three predictors as significant.  
+The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set. The model achieved a `mean accuracy of 31.93 %` with a `SD = 2.94 ± % `. However, the result was complex. Depending on the affair group, not all predictors were significant. For instance, the group that only had 1 affair in the past year, happiness rating did not appear to be a significant predictor, but yearsmarried and religiousness were significant predictors. The group who had 3 affairs in the past year, religiousness did not appear to be significant predictors, but happiness rating and yearsmarried were significant. With the exception of these two groups, every other group had all three predictors as significant.  
 
 ![image](results.png)
 
@@ -61,7 +61,9 @@ most affairs occurred with respondents whom answered in the 1 and 2 categories. 
 
 # Conclusion
 
-Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, yearsmarried was the only significant predictor across all the groups. This suggests that happiness plays an important role in a marriage. We might have heard of the proverb that says, "The grass isn't greener on the other side." This might true. The grass is greener where you water it and nurture it. 
+Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, yearsmarried was the only significant predictor across all the groups. This suggests that yearsmarried plays an important role in predicting marital infidelity. More research is needed to determine why the number of years married plays a role in infidelity.
+
+We might have heard of the proverb that says, "The grass isn't greener on the other side." This might true. The grass is greener where you water it and nurture it. 
 
 ### Reference
 
