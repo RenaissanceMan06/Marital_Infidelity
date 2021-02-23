@@ -37,7 +37,7 @@ equally.
 
 # Multinomial Logistic Regression Model
 
-Since the target vector had a highly imbalanced class, I had to upsample the subset for my model. The initial data set contained `601 rows` and the upsampled data set contained `2706 rows`. The additional rows gave me a balanced target vector.   
+Since the target vector had a highly imbalanced classes, I had to upsample the subset for my model. The initial data set contained `601 rows` and the upsampled data set contained `2706 rows`. The additional rows gave me a balanced target vector.   
 
 The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test my model. The model achieved a `mean accuracy of 31.93 %` with a `SD = 2.94 ± % `. However, the result was complex. Depending on the affair group, not all predictors were significant. For instance, the group that only had 1 affair in the past year, happiness rating did not appear to be a significant predictor, but yearsmarried and religiousness were significant predictors. The group who had 3 affairs in the past year, religiousness did not appear to be a significant predictor, but happiness rating and yearsmarried were significant. With the exception of these two groups, every other group had all three predictors as significant.  
 
@@ -67,7 +67,7 @@ People who didn't identify as religious engaged in more affairs than people whom
 
 # Conclusion
 
-Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, yearsmarried was the only significant predictor across all the groups. This suggests that yearsmarried plays an important role in predicting marital infidelity. More research is needed to determine why.
+Although the multinomial logistic regression results predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, its accuracy at predicting was rather low. Only 1 out 3 predictions or 33 % is correct. 
 
 We might have heard of the proverb that says, "The grass isn't greener on the other side." This might true. The grass is greener where you water it and nurture it. 
 
