@@ -41,7 +41,7 @@ Since the target vector had a highly imbalanced class, I had to upsample the sub
 
 The predictors for my model were years married, religiousness, and happiness. My target variable was affairs. I used a cross validation to partition and test the data set. The model achieved a `mean accuracy of 31.93 %` with a `SD = 2.94 ± % `. However, the result was complex. Depending on the affair group, not all predictors were significant. For instance, the group that only had 1 affair in the past year, happiness rating did not appear to be a significant predictor, but yearsmarried and religiousness were significant predictors. The group who had 3 affairs in the past year, religiousness did not appear to be significant predictors, but happiness rating and yearsmarried were significant. With the exception of these two groups, every other group had all three predictors as significant.  
 
-![image](results.png)
+![image](ml_results.png)
 
 I also performed a split validation to test its accuracy. It had an accuracy of `33.00 %`. Both recall and precision score were `33.00 %` respectively.
 
@@ -60,6 +60,11 @@ most affairs occurred with respondents whom answered in the 1 and 2 categories. 
 
 ![image](happy_rating_affair.png)
 
+## Religiousness
+
+People who didn't identify as religious engaged in more affairs than people whom identified as religious. 
+
+![image](religiousness.png)
 
 # Conclusion
 
