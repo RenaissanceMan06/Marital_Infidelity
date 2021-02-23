@@ -68,7 +68,7 @@ People who didn't identify as religious engaged in more affairs than people whom
 
 # Conclusion
 
-Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, yearsmarried was the only significant predictor across all the groups. This suggests that yearsmarried plays an important role in predicting marital infidelity. More research is needed to determine why the number of years married plays a role in infidelity.
+Although the model predicted yearsmarried, religiousness, and happiness rating as significant predictors of marital infidelity, yearsmarried was the only significant predictor across all the groups. This suggests that yearsmarried plays an important role in predicting marital infidelity. More research is needed to determine why the number of years married plays a role in marital infidelity.
 
 We might have heard of the proverb that says, "The grass isn't greener on the other side." This might true. The grass is greener where you water it and nurture it. 
 
