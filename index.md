@@ -67,7 +67,7 @@ People who didn't identify as religious engaged in more affairs than people whom
 
 # Conclusion
 
-Although the multinomial logistic regression results predicted yearsmarried, religiousness, and happiness rating as significant factors of marital infidelity, its accuracy at predicting was rather low. 1 out 3 predictions was correct. Does this imply we ought to discard the model? Not entirely. We must bear in mind that predicting human behavior can be a complex endeavor. Although 33 % isn't a high accuracy, there might be other attributes which we can add to our model that might help increase its predictability. More research is needed for additional attributes.  
+Although the multinomial logistic regression results predicted yearsmarried, religiousness, and happiness rating as significant factors of marital infidelity, its accuracy at predicting was rather low. Its mean accuracy was 32 % with a SD = 2.94 ±. This is to say; 1 out 3 predictions was correct. Does this imply we ought to discard the model? Not entirely. We must bear in mind that predicting human behavior can be a complex endeavor involving volition. Although 32 % isn't a high accuracy, there might be other attributes which we can add to our model that might help increase its predictability. More research is needed for additional attributes.  
 
 We might have heard of the proverb that says, "The grass isn't greener on the other side." This might true. The grass is greener where you water it and nurture it. 
 
