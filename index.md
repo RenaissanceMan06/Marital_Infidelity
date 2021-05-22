@@ -21,7 +21,7 @@ for my model were years married, religiousness, and happiness rating.
 
 # Affair by Sex
 
-Affair by sex were not statistically significant between the sexes. Males had a 
+Affair by sex was not statistically significant between the sexes. Males had a 
 mean of *M* = 1.50 affairs in the past year with a *SD* = 3.29. Females had a mean of *M* = 1.42 
 affairs in the past year with a *SD* = 3.31. 
 
