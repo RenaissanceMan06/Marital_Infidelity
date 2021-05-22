@@ -13,7 +13,7 @@ predictors of extramarital affairs.
 
 # Data Set
 To tackle this case study, I utilized Fair’s Affair data set. It 
-featured `10 columns and 601 rows`. Some notable features were frequency of affairs, gender, age, 
+featured `10 columns and 601 rows`. Some notable features were gender, age, 
 years married, and religiousness. After running a correlation matrix, the significant predictors 
 for my model were years married, religiousness, and happiness rating. 
 
