@@ -43,7 +43,7 @@ The predictors for my model were years married, religiousness, and happiness. My
 
 ![image](ml_results.png)
 
-I also performed a split validation to test its accuracy. It had an accuracy of `33.00 %`. Both recall and precision score were `33.00 %` respectively.
+I also performed a split validation to determine if the model's accuracy performed better than cross validation. It had an accuracy of `33.00 %`. Both recall and precision score were `33.00 %` respectively.
 
 # Attributes of Prediction Model
 
